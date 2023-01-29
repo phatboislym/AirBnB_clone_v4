@@ -4,3 +4,5 @@ test.html
 test.css
 fix_database.sh
 100-hbnb.sql
+node_modules
+package.json
